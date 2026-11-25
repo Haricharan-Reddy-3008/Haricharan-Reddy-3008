@@ -73,12 +73,8 @@
 
 ---
 
-### 🎓 Currently
+###
 
-- 🎓 B.Tech at RV Institute of Technology and Management (2023 – Present)
-- 🧠 Learning: Hugging Face & LangChain in depth for applied GenAI roles
-- 📝 Contributor: Merged PR on DevTasks' Diff Checker (Structural JSON Diff mode)
-- 🏆 Skyscanner Front-End Software Engineering Job Simulation — Forage (2026)
 
 ---
 
@@ -86,4 +82,4 @@
   <img src="https://komarev.com/ghpvc/?username=Haricharan-Reddy-3008&style=flat-square&color=1F3864" alt="profile views" />
 </p>
 
-<p align="center"><i>Open to full-stack and AI/GenAI engineering opportunities — let's connect!</i></p>
+<p align="center"><i>Open to full-stack and AI/GenAI/ML engineering opportunities — let's connect!</i></p>
